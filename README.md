@@ -1,6 +1,8 @@
 # OSINT-Tools-India
 <img src="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg" alt="India_FLAG"/>
-A list of OSINT resources and tools that may be useful to you when conducting investigations related to the Republic of India. Most of the resources and tools have versions in Hindi and English. Some websites are not available over VPN, and some are not available from outside of India, so use an Indian IP address. 
+A list of OSINT resources and tools that may be useful to you when conducting investigations related to the Republic of India. Most of the resources and tools have versions in Hindi and English. Some websites are not available over VPN, and some are not available from outside of India, so use an Indian IP address.
+
+![Last updated](https://img.shields.io/github/last-commit/paulpogoda/OSINT-Tools-India?label=Last%20updated)
 
 ## Contributions
 Feel free to join this project — [OSINT For Countries V2.0](https://github.com/paulpogoda/OSINT-for-countries-V2.0)

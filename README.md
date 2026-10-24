@@ -76,6 +76,7 @@ Feel free to join this project — [OSINT For Countries V2.0](https://github.com
 - [Radaris People Search Engine](https://radaris.in)
 - [Voters Service Portal](https://electoralsearch.eci.gov.in) and [Voters List](https://voters.eci.gov.in/download-eroll)
 - [Taxpayer Search](https://services.gst.gov.in/services/searchtp). GSTIN/UIN of the Taxpayer required
+- [twtData X Trends Archive: India](https://twtdata.com/twitter-trends/india/). What trended on X (Twitter) in India on a given day, with a dated archive of past days. Free, no sign-up
 - Try [OSINT Industries](https://app.osint.industries) and don't forget about the [Digital Profiler's Toolkit](https://github.com/paulpogoda/Digital-Profiler-s-Toolkit)
 
 

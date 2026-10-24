@@ -31,6 +31,7 @@ Feel free to join this project — [OSINT For Countries V2.0](https://github.com
 - [E-Courts Services](https://ecourts.gov.in/ecourts_home/)
 - [Judgements and Orders Search](https://judgments.ecourts.gov.in/pdfsearch/index.php)
 - [Indian Kanoon](https://indiankanoon.org) 
+- [eCourtsIndia](https://ecourtsindia.com/). Search cases by CNR number, party, advocate or judge across the Supreme Court, High Courts, district courts and tribunals; daily cause lists and orders. Free to start
 
 ### Criminal Records
 - [National Crime Records Bureau](https://www.ncrb.gov.in)
@@ -47,6 +48,7 @@ Feel free to join this project — [OSINT For Countries V2.0](https://github.com
 - [Businesses and Entrepreneurs Search Engine by Type](https://www.indiacom.com)
 - [Taxpayer Search](https://services.gst.gov.in/services/searchtp). GSTIN/UIN of the Taxpayer required
 - [GST Number Search Tool - GSTIN Verification Online](https://cleartax.in/gst-number-search/)
+- [IndiaCos](https://indiacos.com/). Free reports on Indian companies, LLPs and GST registrations: status, every GSTIN under a PAN, directors and court cases naming the business, built from MCA, GST and court records
 - [India Business Map Search](https://www.mapsofindia.com/whitepages/)
 - [Tesari First Resort](https://tesari.ai/) — Tesari is an all-source intelligence platform designed for high-stakes environments, with applications ranging from trade compliance and supply chain illumination to financial crime investigations and complex litigation. It is a paid platform that offers a Tech for Good (Community Impact) Programme for OSINT practitioners and journalists. *Lang: EN.*
 
@@ -55,6 +57,7 @@ Feel free to join this project — [OSINT For Countries V2.0](https://github.com
 - [Cadastral Maps](https://wgbis.ces.iisc.ac.in/foss/index.php/cadastral-maps). See the links on the maps on the right column on this page
 - [Punjab Cadastre](https://jamabandi.punjab.gov.in/CadastralMap.aspx)
 - [Kerala Land Records](https://emaps.kerala.gov.in/bhunaksha/kl/homenew.html)
+- [India Property Register](https://indiapropertyregister.com/). Land and property records by state, district, village and plot (records of rights, cadastral maps, mutations, circle rates, RERA), with the source and date of each fact
 
 ## Vehicles
 ### Land
